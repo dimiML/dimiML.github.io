@@ -10,7 +10,6 @@ To create a basic website
 - Add a theme
 - Add an index.md file with "Hello World" on it
 
-1. Numbered
-2. List
+
 
 
